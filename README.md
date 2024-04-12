@@ -1,4 +1,4 @@
-# Data Structures Project
+# Linked lists project
 
 This repository contains implementations of various data structures in C and C++. Each data structure is implemented in its own file.
 
